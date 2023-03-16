@@ -5,9 +5,10 @@
   background-color: black;
   color: white;
   border-radius: 5px;
+  cursor:pointer;
 }
 
-btn:hover {
+#btn:hover {
   border-radius: 30px;
   background-color: yellow;
   color: black;
